@@ -1,0 +1,30 @@
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.exe
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.deps.json
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.runtimeconfig.json
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.pdb
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.csproj.AssemblyReference.cache
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.AssemblyInfoInputs.cache
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.AssemblyInfo.cs
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.csproj.CoreCompileInputs.cache
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\refint\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.pdb
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.genruntimeconfig.cache
+C:\Users\Niyazi Emre\Desktop\Archery Game\Archery Game\obj\Debug\net6.0\ref\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.exe
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.deps.json
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.runtimeconfig.json
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\bin\Debug\net6.0\Archery Game.pdb
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.csproj.AssemblyReference.cache
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.AssemblyInfoInputs.cache
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.AssemblyInfo.cs
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.csproj.CoreCompileInputs.cache
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\refint\Archery Game.dll
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.pdb
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\Archery Game.genruntimeconfig.cache
+C:\Users\Niyazi Emre\Desktop\Belgeler\Projeler\Proje 1\Archery Game\Archery Game\obj\Debug\net6.0\ref\Archery Game.dll
